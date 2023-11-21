@@ -3,13 +3,14 @@
 MÓDULO 1: Fundamentos em arquitetura de dados e soluções em Nuvem
  
 Capítulo 1 - Fundamentos em Arquitetura de Dados 
-1.1 Por quê ir para a cloud? 
+
+1.1 Por quê ir para a cloud?
 1.2 Well Architected Framework - O que define uma “boa” arquitetura? 
-1.3 Pilar Excelência Operacional 
-1.4 Pilar Segurança 
-1.5 Pilar Confiabilidade 
-1.6 Pilar Eficiência de Performance  
-1.7 Pilar Otimização de custos  
+1.3 Pilar Excelência Operacional
+1.4 Pilar Segurança
+1.5 Pilar Confiabilidade
+1.6 Pilar Eficiência de Performance
+1.7 Pilar Otimização de custos
  
 Capítulo 2 - Modelos de Arquiteturas de Dados em Nuvem 
 2.1. Databases gerenciados - Relacional  
