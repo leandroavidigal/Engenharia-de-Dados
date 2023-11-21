@@ -14,32 +14,32 @@ Capítulo 1 - Fundamentos em Arquitetura de Dados
  
 Capítulo 2 - Modelos de Arquiteturas de Dados em Nuvem 
 2.1. Databases gerenciados - Relacional  
-2.2.  Databases gerenciados - Não relacional  
-2.3.  Data Lake - Desenho da Arquitetura  
-2.4.  Data Lake - Armazenamento  
-2.5.  Data Lake - Ingestão de dados  
-2.6.  Data Lake - Processamento de Big Data  
-2.7.  Data Lake - Consumo de Dados - DW e Engines  
+2.2. Databases gerenciados - Não relacional  
+2.3. Data Lake - Desenho da Arquitetura  
+2.4. Data Lake - Armazenamento  
+2.5. Data Lake - Ingestão de dados  
+2.6. Data Lake - Processamento de Big Data  
+2.7. Data Lake - Consumo de Dados - DW e Engines  
  
 Capítulo 3 - Prática 
-3.1.  Database em nuvem com AWS RDS  
-3.2.  Data Lake com AWS S3  
-3.3.  Extração de Dados com AWS DMS  
-3.4.  Processamento de Big Data com AWS EMR  
-3.5.  Processamento de Big Data com AWS Glue  
-3.6.  Disponibilização de Dados com AWS Athena  
+3.1. Database em nuvem com AWS RDS  
+3.2. Data Lake com AWS S3  
+3.3. Extração de Dados com AWS DMS  
+3.4. Processamento de Big Data com AWS EMR  
+3.5. Processamento de Big Data com AWS Glue  
+3.6. Disponibilização de Dados com AWS Athena  
  
 Capítulo 4 - IaC - Infraestrutura como código 
-4.1.  Ferramentas de IaC  
-4.2.  Terraform - Uso básico  
-4.3.  Controle de versão de código com Github  
-4.4.  Esteiras de deploy com Github  
+4.1. Ferramentas de IaC  
+4.2. Terraform - Uso básico  
+4.3. Controle de versão de código com Github  
+4.4. Esteiras de deploy com Github  
  
 Capítulo 5 - Use Cases - Prática 
-5.1.  Data LakeHouse com Delta Lake e EMR  
-5.2.  Streaming de Dados com AWS Kinesis  
-5.3.  Orquestrando Pipelines com Airflow  
- 
+5.1. Data LakeHouse com Delta Lake e EMR  
+5.2. Streaming de Dados com AWS Kinesis  
+5.3. Orquestrando Pipelines com Airflow  
+
 Capítulo 6 - Encerramento - Resumo, outras ferramentas e próximos passos
  
 
@@ -82,7 +82,7 @@ Capítulo 6  Outros módulos do Spark
  
 Capítulo 7 O Spark na Nuvem
 7.1. Vantagens de soluções em nuvem
-7.2.   O Spark e os principais provedores de nuvem
+7.2. O Spark e os principais provedores de nuvem
 
 
 MÓDULO 3: Desenho de arquiteturas de dados escaláveis
@@ -102,7 +102,7 @@ Capítulo 2.  Docker
  
 Capítulo 3. Kubernetes: introdução e instalação
 3.1. Kubernetes: conceitos e arquitetura
-3.2.  Instalando o Minikube no Windows
+3.2. Instalando o Minikube no Windows
 3.3. Instalando o Minikube no Linux
 3.4. Provisionando um cluster na GCP
 3.5. Provisionando um cluster na AWS
@@ -142,9 +142,9 @@ Capítulo 1 - Introdução a Event Stream, Stream Processing Applications, cases
 1.4 Stream processing [KsqlDB e Spark Streaming] 
  
 Capítulo 2 - Arquitetura de Sistemas de Stream
-2.1.  Arquiteturas orientadas a evento 
-2.2.  Lambda Architecture 
-2.3.  Kappa Architecture 
+2.1. Arquiteturas orientadas a evento 
+2.2. Lambda Architecture 
+2.3. Kappa Architecture 
  
 Capítulo 3 - Patterns Use cases 
 3.1. Data Lake, Data Lakehouse e Evolução Histórica 
@@ -155,13 +155,13 @@ Capítulo 4 - Novos storages para armazenar dados em tempo real
  
 Capítulo 5 - Hands-on
 5.1. Entendimento do projeto prático
-         5.1.1. Explicação do Projeto e Configuração de Ambiente
+   5.1.1. Explicação do Projeto e Configuração de Ambiente
 5.2. Montando a infraestrutura na prática
-          5.2.1. Deploy do EKS
-          5.2.2. Deploy Cluster Kafka no Kubernetes [EKs]
+   5.2.1. Deploy do EKS
+   5.2.2. Deploy Cluster Kafka no Kubernetes [EKs]
 5.3. Use cases - Prática
-         5.3.1. Deploy do Kafka Connect e Criação do primeiro tópico no Kafka
-        5.3.2. Configuração do Sink Connector e Deploy do KsqlDB
-        5.3.3. Deploy do Apache Pinot
+   5.3.1. Deploy do Kafka Connect e Criação do primeiro tópico no Kafka
+   5.3.2. Configuração do Sink Connector e Deploy do KsqlDB
+   5.3.3. Deploy do Apache Pinot
  
 
