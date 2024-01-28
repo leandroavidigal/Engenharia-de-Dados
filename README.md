@@ -41,7 +41,8 @@ Capítulo 5 - Use Cases - Prática
 5.3. Orquestrando Pipelines com Airflow  
 
 Capítulo 6 - Encerramento - Resumo, outras ferramentas e próximos passos
- 
+
+ _________________________________________________________________________
 
 MÓDULO 2: Tecnologias de Big Data - Processamento de dados massivos
  
@@ -84,6 +85,7 @@ Capítulo 7 O Spark na Nuvem
 7.1. Vantagens de soluções em nuvem
 7.2. O Spark e os principais provedores de nuvem
 
+ _________________________________________________________________________
 
 MÓDULO 3: Desenho de arquiteturas de dados escaláveis
  
@@ -131,7 +133,8 @@ Capítulo 7. Operators
 Capítulo 8. Monitoramento
 8.1. Coletando métricas com o Prometheus 
 8.2. Criando Dashboards com Grafana 
- 
+
+ _________________________________________________________________________
  
 MÓDULO 4: Processamento de Fluxos Contínuos de Dados
  
@@ -163,5 +166,9 @@ Capítulo 5 - Hands-on
    5.3.1. Deploy do Kafka Connect e Criação do primeiro tópico no Kafka
    5.3.2. Configuração do Sink Connector e Deploy do KsqlDB
    5.3.3. Deploy do Apache Pinot
+   
+_________________________________________________________________________
+
+PROJETO APLICADO
  
 
